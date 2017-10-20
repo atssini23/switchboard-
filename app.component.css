@@ -1,0 +1,15 @@
+.wrapper{
+    background: saddlebrown;   
+}
+
+button{
+    background-color: red;
+}
+
+button.on{
+    background-color: green;
+}
+
+.switches{
+    display: inline-block;
+}
